@@ -1,0 +1,6 @@
+2018-11-16 11:19:10,397 - log.py[line:18] - INFO: main module start
+2018-11-16 11:19:10,397 - log.py[line:19] - INFO: main module stop
+2018-11-16 11:19:10,398 - log.py[line:23] - ERROR: Bad hostname
+2018-11-16 11:20:12,432 - log.py[line:18] - INFO: main module start
+2018-11-16 11:20:12,432 - log.py[line:19] - INFO: main module stop
+2018-11-16 11:20:12,432 - log.py[line:23] - ERROR: Bad hostname
